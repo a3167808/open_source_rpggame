@@ -12,5 +12,7 @@
 ## How to Play
 
 
+## Objective
+
 ### License
 https://github.com/herbyxo/open_source_rpggame/blob/main/LICENSE
