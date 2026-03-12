@@ -15,6 +15,9 @@ Run the main scene to start the game.
 Build Godot from source using the official installation guide for your relevant device:
 https://docs.godotengine.org/en/4.4/contributing/development/compiling/index.html
 
+## Contributing
+Once Godot has been installed, pull from Main, create own branch, and make code edits on own branch. 
+
 ## How to Play
 1. The game is played by 2-4 players.
 2. During the match, numbers will briefly appear on the screen.
