@@ -59,4 +59,19 @@ combat : can occur in 2 ways
 - if 2 or more henchmen land on the same tile Once players have done everything in their turn they press 'ready'. Player turns take place based on who pressed 'next turn' first.
 
 ## UI
-Text-based, grid style.
+**Map**
+Display grid
+Display player's current card
+Display player's current position
+Display player's selected position
+Interaction button to confirm selected position
+Display player's Victory Point
+
+**Combat**
+Display player's current card
+Interact button to use card
+Display numbers, one by one, quicker overtime
+Display player's current input
+Interaction button to confirm input
+Display feedback after player's input
+Display player's attack number
